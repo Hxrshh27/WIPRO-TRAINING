@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\WIPRO TRAINING\\Task 1302\\TASK1302\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FD5FB86-041C-4EC7-8BA6-316340D38A09}|TASK1302\\TASK1302.csproj|d:\\wipro training\\task 1302\\task1302\\task1302\\qu3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FD5FB86-041C-4EC7-8BA6-316340D38A09}|TASK1302\\TASK1302.csproj|solutionrelative:task1302\\qu3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FD5FB86-041C-4EC7-8BA6-316340D38A09}|TASK1302\\TASK1302.csproj|D:\\WIPRO TRAINING\\Task 1302\\TASK1302\\task1302\\qu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD5FB86-041C-4EC7-8BA6-316340D38A09}|TASK1302\\TASK1302.csproj|solutionrelative:task1302\\qu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FD5FB86-041C-4EC7-8BA6-316340D38A09}|TASK1302\\TASK1302.csproj|d:\\wipro training\\task 1302\\task1302\\task1302\\qu2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FD5FB86-041C-4EC7-8BA6-316340D38A09}|TASK1302\\TASK1302.csproj|D:\\WIPRO TRAINING\\Task 1302\\TASK1302\\task1302\\qu2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FD5FB86-041C-4EC7-8BA6-316340D38A09}|TASK1302\\TASK1302.csproj|solutionrelative:task1302\\qu2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FD5FB86-041C-4EC7-8BA6-316340D38A09}|TASK1302\\TASK1302.csproj|d:\\wipro training\\task 1302\\task1302\\task1302\\qu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FD5FB86-041C-4EC7-8BA6-316340D38A09}|TASK1302\\TASK1302.csproj|solutionrelative:task1302\\qu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FD5FB86-041C-4EC7-8BA6-316340D38A09}|TASK1302\\TASK1302.csproj|d:\\wipro training\\task 1302\\task1302\\task1302\\qu3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD5FB86-041C-4EC7-8BA6-316340D38A09}|TASK1302\\TASK1302.csproj|solutionrelative:task1302\\qu3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "qu3.cs",
               "DocumentMoniker": "D:\\WIPRO TRAINING\\Task 1302\\TASK1302\\TASK1302\\qu3.cs",
               "RelativeDocumentMoniker": "TASK1302\\qu3.cs",
-              "ToolTip": "D:\\WIPRO TRAINING\\Task 1302\\TASK1302\\TASK1302\\qu3.cs*",
-              "RelativeToolTip": "TASK1302\\qu3.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAbAAAAAAAAAA==",
+              "ToolTip": "D:\\WIPRO TRAINING\\Task 1302\\TASK1302\\TASK1302\\qu3.cs",
+              "RelativeToolTip": "TASK1302\\qu3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T04:30:47.105Z",
               "EditorCaption": ""
@@ -45,20 +45,20 @@
               "RelativeDocumentMoniker": "TASK1302\\qu2.cs",
               "ToolTip": "D:\\WIPRO TRAINING\\Task 1302\\TASK1302\\TASK1302\\qu2.cs",
               "RelativeToolTip": "TASK1302\\qu2.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwDwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T04:04:36.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "qu1.cs",
               "DocumentMoniker": "D:\\WIPRO TRAINING\\Task 1302\\TASK1302\\TASK1302\\qu1.cs",
               "RelativeDocumentMoniker": "TASK1302\\qu1.cs",
               "ToolTip": "D:\\WIPRO TRAINING\\Task 1302\\TASK1302\\TASK1302\\qu1.cs",
               "RelativeToolTip": "TASK1302\\qu1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADMAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T03:35:51.467Z",
               "EditorCaption": ""
